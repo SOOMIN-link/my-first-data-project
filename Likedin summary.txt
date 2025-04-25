@@ -1,0 +1,21 @@
+📌 Project Title
+University Timetable Analysis: Visualizing Class Distribution by Day, Room, and Instructor
+
+🧠 Project Summary
+I analyzed my university’s timetable dataset using Python.
+Starting from a public PDF listing all courses offered this semester,
+I converted the file to Excel, cleaned and structured the data using pandas,
+and visualized patterns in class schedules using matplotlib and seaborn.
+
+This project explores which days have the most classes,
+which classrooms are used most frequently,
+and how teaching responsibilities are distributed across instructors.
+
+🎯 What I learned
+
+I practiced cleaning and organizing messy, semi-structured data.
+
+I learned how to ask meaningful questions and find answers through data.
+
+More importantly, I tried to understand the story behind the numbers—
+not just what is happening, but why it might be happening.
